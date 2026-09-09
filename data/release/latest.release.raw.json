@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 6288516,
       "digest": "sha256:a37e5417c893026987d603f27e1c7009a3834b49a274a8a74934f1c25d93c6fd",
-      "download_count": 315,
+      "download_count": 414,
       "created_at": "2026-09-07T08:18:17Z",
       "updated_at": "2026-09-07T08:18:17Z",
       "browser_download_url": "https://github.com/moson-mo/pacseek/releases/download/v1.8.7/pacseek-linux-x64-v1.8.7.tar.gz"
