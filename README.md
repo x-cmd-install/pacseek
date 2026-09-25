@@ -45,12 +45,12 @@ Total: **3,516** lines of code across **23** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-25 | 1 | 0 | 0 | 1 | 1 | 3 |
-| last60d | 2026-07-26 | 1 | 0 | 0 | 1 | 1 | 3 |
-| 90d | 2026-06-26 | 1 | 0 | 0 | 1 | 1 | 3 |
-| last180d | 2026-03-28 | 1 | 0 | 0 | 2 | 5 | 3 |
-| 360d | 2025-09-29 | 2 | 0 | 0 | 7 | 7 | 6 |
-| last720d | 2024-10-04 | 4 | 0 | 5 | 15 | 15 | 12 |
+| 30d | 2026-08-26 | 1 | 0 | 0 | 1 | 1 | 3 |
+| last60d | 2026-07-27 | 1 | 0 | 0 | 1 | 1 | 3 |
+| 90d | 2026-06-27 | 1 | 0 | 0 | 1 | 1 | 3 |
+| last180d | 2026-03-29 | 1 | 0 | 0 | 2 | 5 | 3 |
+| 360d | 2025-09-30 | 2 | 0 | 0 | 7 | 7 | 6 |
+| last720d | 2024-10-05 | 4 | 0 | 5 | 15 | 15 | 12 |
 
 ## Release assets
 
@@ -67,4 +67,4 @@ Install metadata for pacseek lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260924.yml` · 2026-09-24T05:20:02Z._
+_Snapshot: `data/card/260925.yml` · 2026-09-25T05:27:47Z._
