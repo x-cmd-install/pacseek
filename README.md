@@ -35,22 +35,22 @@ Total: **3,516** lines of code across **23** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 669 · **Forks**: 19 · **Open issues**: 61 · **Contributors**: 3
+- **Stars**: 670 · **Forks**: 19 · **Open issues**: 62 · **Contributors**: 3
 
 ## Totals (cumulative)
 
-- **Releases**: 78 · **Merged PRs**: 3 · **Open PRs**: 5 · **Closed issues**: 41 · **Open issues**: 20 · **Commits**: 253
+- **Releases**: 78 · **Merged PRs**: 3 · **Open PRs**: 5 · **Closed issues**: 42 · **Open issues**: 20 · **Commits**: 253
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-26 | 0 | 0 | 0 | 0 | 1 | 0 |
-| last60d | 2026-09-26 | 0 | 0 | 0 | 0 | 1 | 0 |
-| 90d | 2026-08-27 | 1 | 0 | 0 | 0 | 2 | 3 |
-| last180d | 2026-05-29 | 1 | 0 | 0 | 0 | 3 | 3 |
-| 360d | 2025-11-30 | 2 | 0 | 0 | 6 | 8 | 6 |
-| last720d | 2024-12-05 | 4 | 0 | 5 | 13 | 15 | 12 |
+| 30d | 2026-10-27 | 0 | 0 | 0 | 0 | 1 | 0 |
+| last60d | 2026-09-27 | 0 | 0 | 0 | 0 | 1 | 0 |
+| 90d | 2026-08-28 | 1 | 0 | 0 | 1 | 2 | 3 |
+| last180d | 2026-05-30 | 1 | 0 | 0 | 1 | 3 | 3 |
+| 360d | 2025-12-01 | 2 | 0 | 0 | 7 | 8 | 6 |
+| last720d | 2024-12-06 | 4 | 0 | 5 | 14 | 15 | 12 |
 
 ## Release assets
 
@@ -67,4 +67,4 @@ Install metadata for pacseek lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261125.yml` · 2026-11-25T09:52:09Z._
+_Snapshot: `data/card/261126.yml` · 2026-11-26T09:32:17Z._
